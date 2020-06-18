@@ -33,7 +33,7 @@ body{
 .example {
   background-color: #000;
   width: 100%;
-  height: 100px;
+  height: 200px;
   padding: 15px;
   margin-top: 5px;
   overflow-y: scroll;/* Add the ability to scroll */
